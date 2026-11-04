@@ -1,1 +1,1 @@
-[]
+[{"id":1,"kind":"crypto","type":"EXCHANGE_INFLOW","asset":"USDC","direction":1,"usd":9481741.73,"actor":"Coinbase 10","t":1793818286,"price_symbol":"BTCUSDT","price":80418.01,"details":{"tx":"0x8d05ebe0df3ed11ef491e553cd7705e11f67e20895e8f9af2e6bb524a1ce1df6","symbol":"USDC","amount":9481741.73,"from":"0x0510\u2026cfe7"},"returns":{"1d":null,"1h":null,"4h":null,"5m":null,"7d":null}}]
